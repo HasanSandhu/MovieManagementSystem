@@ -1,2 +1,2 @@
 # MovieManagementSystem
-Assignment 1 Movie Management System
+A Java program to manage movie records.
